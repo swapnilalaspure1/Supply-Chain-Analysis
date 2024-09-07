@@ -41,5 +41,5 @@ Measure performance against the target service levels set for each customer, ena
 Over the past 5 months, the key performance metrics (**OT%**, **IF%**, **OTIF%**, **LiRF%**, and **VoRF%**) have consistently underperformed, falling short of the target service levels set for customers. This analysis highlights the need for immediate corrective actions to enhance service quality and customer satisfaction.
 
 ## 🚀 Video Presentaion Link :
-https://www.linkedin.com/posts/swapnilalaspure_supplychain-fmcg-deliveryperformance-activity-7231778233921232896-l-5F?utm_source=share&utm_medium=member_desktop
+https://youtu.be/jAiwIbVjhqw?si=CyLwgQ470jJSxSQI
 
